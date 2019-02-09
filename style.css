@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+#main {
+    display: grid;
+    text-align: center;
+}
+#img-div {
+    display:grid;
+    justify-content:center;
+    align-items: center;
+  }
+  #image{
+    max-width: 100%;
+    display: block;
+    height: auto;
+  }
